@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  ✨ <strong>"Coding is like poetry; sometimes, you just need to refactor it to make it beautiful."</strong> ✨
+  ✨ <strong>"Coding is like poetry. Sometimes, you just need to refactor it to make it beautiful."</strong> ✨
 </p>
