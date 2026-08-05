@@ -3,7 +3,7 @@
 <h2 align="center"> Hi, I'm Miruna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-  🇷🇴 Romanian living in 🇧🇷 Brazil since childhood | 💻 CS Student - 7th semester <br>
+  🇷🇴 Romanian living in 🇧🇷 Brazil since childhood | 💻 CS Student - 10th semester <br>
   🌍 Passionate about technology | 🐱 Cat mom | 💜 Web development enthusiast
 </p>
 
